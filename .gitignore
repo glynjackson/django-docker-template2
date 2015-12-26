@@ -10,7 +10,7 @@ parts
 src/*.egg-info
 lib
 lib64
-.idea/*
+.idea
 /static/
 workspace.xml
 /env/
