@@ -24,3 +24,5 @@ workspace.xml
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+*.sqlite3
