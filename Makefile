@@ -1,6 +1,6 @@
 # Makefile Shortbite Engine
 
-NAME=glynjackson/django-boilerplate
+NAME=glynjackson/django-beanstalk-tutorial
 VERSION=`git describe --abbrev=0 --tags`
 BRANCH=`git rev-parse --abbrev-ref HEAD`
 CONTAINER_IP=$(shell echo $(docker-machine ip default))
