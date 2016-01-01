@@ -1,5 +1,3 @@
-# Makefile Shortbite Engine
-
 NAME=glynjackson/django-beanstalk-tutorial
 VERSION=`git describe --abbrev=0 --tags`
 BRANCH=`git rev-parse --abbrev-ref HEAD`
